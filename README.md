@@ -12,7 +12,11 @@
 - tqdm
 
 ## How to run
-- The process is in notebook my_main.ipynb
+1. Download the data folder
+2. Excute the program in the notebook my_main.ipynb
+
+- set predict target dataset in my_main.ipynb
+- set reference source datasets in config.yaml 2nd row, the 'data_keys' key
 
 ## Data
 - Download the data from [google drive](https://drive.google.com/file/d/1M3-lcySjAl4h5AfjtZCfO2NanZakLg2V/view?usp=sharing)   
