@@ -12,10 +12,13 @@
 - tqdm
 
 ## How to run
-- The process is in the notebook my_main.ipynb
+- The process is in notebook my_main.ipynb
 
 ## Data
-- Download the data from [google drive](https://drive.google.com/file/d/16xbiRvh5jJx2A4Swv9dEMEz_Y0AEoQTM/view?usp=sharing)
+- Download the data from [google drive](https://drive.google.com/file/d/1M3-lcySjAl4h5AfjtZCfO2NanZakLg2V/view?usp=sharing)   
+  and unzip as thr path :
+  Data-Mining-Final-Report/data/pems-bay  
+  Data-Mining-Final-Report/data/metr-la
 
 
 ## Citation
