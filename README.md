@@ -1,6 +1,8 @@
 # Data Mining Final Report
 ## Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer
 
+## Environment
+- python 3.10.13
 
 ## Requirements
 - torch >= 1.8.1
@@ -23,6 +25,10 @@
   and unzip as thr path :  
   Data-Mining-Final-Report/data/pems-bay  
   Data-Mining-Final-Report/data/metr-la
+
+## Data Source
+- [google drive from the source repository](https://drive.google.com/file/d/16xbiRvh5jJx2A4Swv9dEMEz_Y0AEoQTM/view)
+- https://github.com/Davidham3/ASTGCN/tree/master/data (before preprocess)
 
 
 ## Citation
